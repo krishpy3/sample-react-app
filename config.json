@@ -1,6 +1,6 @@
 {
     "project": "datacaptures",
-    "app": "datacapture",
+    "app": "datacaptures",
     "env": "dev1",
     "version": 2,
     "region": "us-east1",
