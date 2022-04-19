@@ -1,9 +1,9 @@
 {
     "project": "datacaptures",
     "app": "datacaptures",
-    "env": "dev1",
+    "env": "dev",
     "version": 2,
-    "region": "us-east1",
+    "region": "us-east-1",
     "build-number": 2,
     "debug": true
 }
