@@ -18,5 +18,3 @@ jobs:
       
     - name: Lint
       run: npx eslint --ext .js,.jsx,.ts,.tsx src/**/*.{js,jsx,ts,tsx}
-      with:
-          files: src/
